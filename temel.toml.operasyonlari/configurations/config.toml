@@ -1,0 +1,7 @@
+#filename: config.toml
+[database]
+server = "127.0.0.1"
+port = "5432"
+database = "mydb"
+user= "pi"
+password = "1410"

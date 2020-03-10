@@ -1,0 +1,11 @@
+User:
+  Userx
+Database:
+  abc Database
+Port:
+  1234
+Server:
+  127.0.0.1
+Settings:
+  - Ayar1
+  - Ayar 2

@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<sites version="1">
+<site>
+
+  <Name>www.google.com</Name>
+  <Descprition>Arama Motoru</Descprition>
+  <Category>Search Engine</Category>
+
+</site>
+<site>
+
+  <Name>www.cihanozhan.com</Name>
+  <Descprition>Cihan</Descprition>
+  <Category>Özhan</Category>
+
+</site>
+<site>
+
+  <Name>www.golang.org.tr</Name>
+  <Descprition>Go Türkiye Topluluğu</Descprition>
+  <Category>Comunity</Category>
+
+</site>
+
+
+</sites>

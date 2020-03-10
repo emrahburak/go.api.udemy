@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	message = "Hi"
+	sayHello(message)
+
+}
+
+func sayHello(message string) {
+	fmt.Println(message)
+	message = "Hı Go"
+	fmt.Println(message)
+}

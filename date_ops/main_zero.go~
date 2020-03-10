@@ -1,0 +1,11 @@
+package main
+
+import {
+	"fmt"
+	"time"
+}
+
+// Tarih ve zaman operarsyonları
+
+func main(){
+	t := time.

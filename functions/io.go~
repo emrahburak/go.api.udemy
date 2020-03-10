@@ -1,0 +1,18 @@
+package main
+
+import {
+	"bufio"
+	"fmt"
+	"os"
+	"strconv"
+	"string"
+}
+
+func main(){
+
+	reader := bufio.NewReader(os.stdin)
+	fmt.Println("Enter text: ")
+	str, _ := reader.ReadString("\n")
+	fmt.Println(str)
+
+}
